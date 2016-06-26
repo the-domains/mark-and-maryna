@@ -1,14 +1,18 @@
-layout_spectrum: 0.4973627859726548
-typography_spectrum: 0.5274097798392177
+typography_spectrum: 0.25029377453029156
 color:
-  brandStrength: 0.24510519905015826
-  lightness: 0.3328790857922286
-  saturation: 0.722244321834296
-  rhythmicContrast: 0.15563354454934597
+  brandStrength: 0.746263740118593
+  lightness: 0.16543986834585667
+  saturation: 0.012628730619326234
+  rhythmicContrast: 0.5664298196788877
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+layout_spectrum: 0.06927749025635421
+author:
+  name: ''
+  email: ''
 name: Mark and Maryna
+title: Memories from our wedding
