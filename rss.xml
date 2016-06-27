@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mark and Maryna]]></title>
-        <description><![CDATA[Mark and Maryna]]></description>
-        <link>https://thegrid.ai/mark-and-maryna/</link>
+        <title><![CDATA[Memories from our wedding]]></title>
+        <description><![CDATA[Memories from our wedding]]></description>
+        <link>http://markandmaryna.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 09:20:16 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/mark-and-maryna/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/901bf563-86f6-4ab0-bf44-976f47703482.jpg">]]></description>
-            <link>https://thegrid.ai/mark-and-maryna/6d8c0eef-6032-4c65-98a2-7af6ed61ded1/index.html</link>
-            <guid isPermaLink="false">6d8c0eef-6032-4c65-98a2-7af6ed61ded1</guid>
-            <pubDate>Sun, 26 Jun 2016 09:20:14 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 27 Jun 2016 09:48:22 GMT</lastBuildDate>
+        <atom:link href="http://markandmaryna.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0be312fd-ebe6-433e-bb28-8b56973e37be.jpg">]]></description>
-            <link>https://thegrid.ai/mark-and-maryna/f09ad42e-3ea2-4ea3-b387-dcffcd068ba5/index.html</link>
+            <link>http://markandmaryna.com/f09ad42e-3ea2-4ea3-b387-dcffcd068ba5/index.html</link>
             <guid isPermaLink="false">f09ad42e-3ea2-4ea3-b387-dcffcd068ba5</guid>
             <pubDate>Sun, 26 Jun 2016 09:19:09 GMT</pubDate>
         </item>
