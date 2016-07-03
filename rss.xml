@@ -4,7 +4,7 @@
         <description><![CDATA[Memories from our wedding]]></description>
         <link>http://markandmaryna.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 21:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 21:59:16 GMT</lastBuildDate>
         <atom:link href="http://markandmaryna.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://markandmaryna.com/b1502082-35ee-4e3f-a436-0e86fc0dae13/index.html</link>
             <guid isPermaLink="false">b1502082-35ee-4e3f-a436-0e86fc0dae13</guid>
             <pubDate>Sun, 03 Jul 2016 17:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4763518-6cec-4f6b-ab43-1e9f75b2a9e7.jpg">]]></description>
+            <link>http://markandmaryna.com/767e35de-64b0-456a-a38c-9caafb6b3efe/index.html</link>
+            <guid isPermaLink="false">767e35de-64b0-456a-a38c-9caafb6b3efe</guid>
+            <pubDate>Sun, 03 Jul 2016 21:59:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://markandmaryna.com/2c3cd3ec-4cd6-4acb-a285-084296c34209/index.html</link>
             <guid isPermaLink="false">2c3cd3ec-4cd6-4acb-a285-084296c34209</guid>
             <pubDate>Sun, 03 Jul 2016 21:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16f53270-c622-4b6e-8d1e-3c587b483f7e.jpg">]]></description>
-            <link>http://markandmaryna.com/9d0d28f7-10d9-410f-91d0-426eb2693108/index.html</link>
-            <guid isPermaLink="false">9d0d28f7-10d9-410f-91d0-426eb2693108</guid>
-            <pubDate>Sun, 03 Jul 2016 21:41:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
