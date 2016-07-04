@@ -1,7 +1,7 @@
 name: Mark and Maryna
 favicon: null
-layout_spectrum: 0.9807173933368176
-typography_spectrum: 0.4373431692365557
+layout_spectrum: 0.00623
+typography_spectrum: 0.50267
 author:
   name: ''
   email: ''
@@ -20,13 +20,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.46226366702467203
+    - '#000000'
+    - '#fefefe'
+    - '#004c8e'
+    - '#2f79c3'
+    - '#ffd100'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
